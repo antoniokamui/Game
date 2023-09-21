@@ -30,4 +30,4 @@ while (number_try > 0 ):
 if number_try == 0 and goal == (10 < 1):
       print("You Missed , the secret number is ", secret_number, " your number is ", inserted_number, ". \n")
 
-print("Game Over")
+print("Game Over")  

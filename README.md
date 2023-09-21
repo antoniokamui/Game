@@ -1,9 +1,9 @@
 # Divination Game
 #### Video Demo:  https://youtu.be/XeottSGy884
-#### Description:
+#### Description: 
 Hello everyone, my name is Antonio Fujii, I'm from São Paulo Brazil.  
 I have a bachelor's degree in computer science and an MBA in Internet of Things in my country.  
- 
+  
 This is the numerical guessing game made in Python for Harvard CS50.  
 It is a simple program and was created just for fun and to pass the time.    
 Basically the game consists of you entering a number from 1 to 20, trying to guess the secret number that is in hardcode.  
